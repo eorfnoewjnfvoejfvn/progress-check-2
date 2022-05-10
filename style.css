@@ -1,0 +1,47 @@
+* {
+    margin: 0 auto;
+}
+
+.icons-sec {
+    align-items: center;
+    text-align: center;
+}
+
+.box p {
+    width: 65%;
+    font-size: 18px;
+}
+
+.box h4 {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.horizontal {
+    display: flex;
+    margin: 10px;
+    text-align: center;
+} 
+
+.icons-sec h1 {
+    font-size: 48px;
+}
+
+/* Green button */
+
+.green-button {
+    background-color: #77A222;   /*for hover effect #50701b */
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 5px;
+    margin: 30px;
+}
+
+.green-button:hover {
+    background-color: #50701b; 
+}
+
+@media only screen and (max-width: 500px) {
+
+}
